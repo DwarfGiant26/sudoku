@@ -1,0 +1,6 @@
+/home/alvin_janitra/coding/game/sudoku/build/CMakeFiles/Cells.dir
+/home/alvin_janitra/coding/game/sudoku/build/CMakeFiles/edit_cache.dir
+/home/alvin_janitra/coding/game/sudoku/build/CMakeFiles/rebuild_cache.dir
+/home/alvin_janitra/coding/game/sudoku/build/test/CMakeFiles/CellsTest.dir
+/home/alvin_janitra/coding/game/sudoku/build/test/CMakeFiles/edit_cache.dir
+/home/alvin_janitra/coding/game/sudoku/build/test/CMakeFiles/rebuild_cache.dir

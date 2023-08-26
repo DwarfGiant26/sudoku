@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/CellsTest.dir/CellsTest.cpp.o -o CellsTest  -lgtest -lgtest_main ../libCells.a 
